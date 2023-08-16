@@ -1,17 +1,17 @@
 # 👻 Supernatural (seriel de televisão) 
 
-![preview.png](./.github/preview.png)
+![preview.png](./preview/preview.png)
 
 
-> Exercicio da DIO (Recriando o Wikipedia com Layout Moderno e com uma boa semântica)
+> Exercicio da DIO (Recriando o Wikipedia com Layout Moderno e com uma boa semântica) 
+> fiz loyout da série que eu mais gosto Supernatural.  
 
-[🔗Clique aqui pra acessar](https://douglasffjw.github.io/ModaFut/)
+[🔗Clique aqui pra acessar](https://douglasffjw.github.io/Wikepedia-Supernatural/)
 
 ## 🛠 Tecnologias
 
 - HTML
 - CSS 
-- JavaScript
 - Git e Github
 
 # 📞Contato
