@@ -3,8 +3,9 @@
 ![preview.png](./preview/preview.png)
 
 
-> Exercicio da DIO (Recriando o Wikipedia com Layout Moderno e com uma boa semântica) 
-> fiz loyout da série que eu mais gosto Supernatural.  
+> Exercicio da DIO (Recriando o Wikipedia com Layout Moderno e com uma boa semântica)
+
+> Fiz loyout da série que eu mais gosto Supernatural.  
 
 [🔗Clique aqui pra acessar](https://douglasffjw.github.io/Wikepedia-Supernatural/)
 
